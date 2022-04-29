@@ -1,1 +1,1 @@
-# optimization-algorithms
+# Comparing Machine Learning Optimization Algorithms
